@@ -1,1 +1,9 @@
-This section provides python code for different data mining algorithms provided in the course. Please follow the attached Lab Manual for more details.
+This section provides python code for different data mining algorithms provided in the course. 
+
+Please follow the attached Lab Manual for more details.
+
+Use Anaconda for Python :
+https://www.anaconda.com/
+
+Source of some example codes provided here:
+https://scikit-learn.org/
